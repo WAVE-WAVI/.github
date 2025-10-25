@@ -1,4 +1,4 @@
-## 성공으로 가는 나만의 길 : Wavi
+# WAVI : 성공으로 가는 나만의 길
 <img width="1920" height="1080" alt="Opening" src="https://github.com/user-attachments/assets/57101987-adb9-46db-81f4-25f8e65b11ed" />
 <img width="1920" height="1080" alt="Context   설문조사" src="https://github.com/user-attachments/assets/0d0ff19a-2630-4d06-a134-9e1020dd2562" />
 <img width="1920" height="1080" alt="경쟁사 비교" src="https://github.com/user-attachments/assets/85e83fc4-141c-4f85-96ed-f4ed147c2a7e" />
