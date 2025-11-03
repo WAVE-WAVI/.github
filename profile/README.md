@@ -16,6 +16,3 @@
 <img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/803b5e48-5565-4f21-abdc-387065e8a89a" />
 <img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/9f637077-c9f5-4e4f-9098-df8c4f6b7458" />
 <br/><br/>
-
-## 📍 ERD
-<img width="1332" height="794" alt="erd" src="https://github.com/user-attachments/assets/4bc82845-cc9f-4201-97d0-d9bd3de68c22" />
